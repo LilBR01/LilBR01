@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/LilBR01?tab=repositories)
+![LilBR01](https://github-readme-stats.vercel.app/api/top-langs?username=LilBR01&show_icons=true&count_private=true&theme=gotham)
+
+
